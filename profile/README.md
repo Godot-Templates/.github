@@ -36,10 +36,18 @@
       <sub>Minecraft-style voxel starter project</sub>
     </td>
     <td align="center" width="25%">
-      <br /><br />
-      <strong>Coming Soon</strong>
+      <a href="https://github.com/Godot-Templates/Godotkart">
+        <img
+          src="https://github.com/user-attachments/assets/74ae0341-5f80-4494-a224-b4e93f7a7493"
+          alt="Godotkart icon"
+          width="128"
+          height="128"
+        />
+        <br />
+        <strong>Godotkart</strong>
+      </a>
       <br />
-      <sub>Next template</sub>
+      <sub>Real 3D physics driving racing game</sub>
       <br /><br />
     </td>
     <td align="center" width="25%">
@@ -51,10 +59,11 @@
     </td>
   </tr>
 </table>
+<img width="721" height="655" alt="image" src="" />
 
 ## About
 
 * All templates here are free to download and use.
 * PRs are welcome
 * Want to transfer a repo here? Message `redbracket` on Discord!
-* Have a template idea? [Create an issue!]([https://github.com/Godot-Templates/.github/issues)
+* Have a template idea? <a href="https://github.com/Godot-Templates/.github/issues">Create an issue!</a>

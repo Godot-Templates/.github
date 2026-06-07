@@ -54,8 +54,7 @@
 
 ## About
 
-All templates here are free to download and use.
-
-Use them as starting points, modify them, break them apart, or build full games from them. PRs to improve the templates are welcome.
-
-Want to add a template? Message `redbracket` on Discord!
+* All templates here are free to download and use.
+* PRs are welcome
+* Want to transfer a repo here? Message `redbracket` on Discord!
+* Have a template idea? [Create an issue!]([https://github.com/Godot-Templates/.github/issues)

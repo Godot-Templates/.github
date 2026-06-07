@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/f887dcd1-fb15-4ff5-9bae-54214cb497db"
+    src="./assets/godot-templates-banner.webp"
     alt="Godot Templates banner"
     width="900"
   />

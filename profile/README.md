@@ -51,6 +51,21 @@
       <br /><br />
     </td>
     <td align="center" width="25%">
+      <a href="https://github.com/Godot-Templates/GolfDot">
+        <img
+          src="https://github.com/user-attachments/assets/c7720105-45ed-4cfc-9cd7-f1d903d88168"
+          alt="GolfDot icon"
+          width="128"
+          height="128"
+        />
+        <br />
+        <strong>GolfDot</strong>
+      </a>
+      <br />
+      <sub>Expansion of mgerdes' Open-Golf in Godot</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="25%">
       <br /><br />
       <strong>Coming Soon</strong>
       <br />
